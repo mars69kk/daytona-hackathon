@@ -1,4 +1,4 @@
-# ⚡ MCP-Forge
+# ⚡ MCP-X
 ### The Autonomous, Daytona-Powered MCP & Agent Tooling Compiler
 
 > **Built for Daytona HackSprint Singapore (August 2026)**  
@@ -10,7 +10,7 @@
 
 ```mermaid
 flowchart LR
-    A["Raw API Specs<br/>(OpenAPI / Swagger / cURL)"] --> B["⚡ MCP-Forge<br/>(5-Agent Swarm)"]
+    A["Raw API Specs<br/>(OpenAPI / Swagger / cURL)"] --> B["⚡ MCP-X<br/>(5-Agent Swarm)"]
     B <--> C["⚡ Daytona Cloud<br/>(Isolated Sandboxes)"]
     B --> D["Verified FastMCP Bundle<br/>(server.py + Claude Config)"]
 ```
@@ -35,9 +35,9 @@ There are millions of production REST APIs across global enterprise systems. How
 ---
 
 # 🟢 Part 2: THE "WHAT"
-### *Meet MCP-Forge: The Autonomous MCP Compiler*
+### *Meet MCP-X: The Autonomous MCP Compiler*
 
-**MCP-Forge** is an autonomous multi-agent compilation and verification platform. It automates the entire lifecycle of Model Context Protocol generation with zero human code writing required.
+**MCP-X** is an autonomous multi-agent compilation and verification platform. It automates the entire lifecycle of Model Context Protocol generation with zero human code writing required.
 
 ### 🎯 Key Product Capabilities
 
@@ -61,7 +61,7 @@ There are millions of production REST APIs across global enterprise systems. How
 # 🔵 Part 3: THE "HOW"
 ### *Multi-Agent Swarm Architecture & Daytona Engine*
 
-MCP-Forge operates via an orchestrated 5-agent pipeline communicating across strict data contracts, with **Daytona Cloud Sandboxes** serving as the core execution and verification engine.
+MCP-X operates via an orchestrated 5-agent pipeline communicating across strict data contracts, with **Daytona Cloud Sandboxes** serving as the core execution and verification engine.
 
 ### 🏗️ End-to-End System Architecture
 
